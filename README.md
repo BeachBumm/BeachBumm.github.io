@@ -28,7 +28,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-[Privacy Policy](https://BeachBumm.github.io/privacy_policy.md)
+[Privacy Policy](https://BeachBumm.github.io/privacy_policy.html)
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeachBumm/BeachBumm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
