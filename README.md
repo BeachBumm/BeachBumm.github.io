@@ -1,36 +1,13 @@
 ## BeachBumm 
 ![](BeachBumm.github.io/BeachBummScreenShot1.png)
 
-### Markdown
+BeachBumm allows people to view the weather forecast of popular beaches on the island of O'ahu. Sort the beaches by temperature, distance, and type of weather. Search for beaches by name or side of the island. 
+View detailed information about a beach forecast such as sunrise and sunset time, distance from you, chance of rain, wind speed, humidity, and hourly forecast.
+Add beaches to your list of favorite beaches so that you can view the beaches you love all in one place!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+### Privacy Policy
 [Privacy Policy](https://BeachBumm.github.io/privacy_policy.html)
-[Privacy Policy Markdown](https://BeachBumm.github.io/privacy_policy.md)
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BeachBumm/BeachBumm.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+For support contact beachbummapp@gmail.com
