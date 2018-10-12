@@ -1,5 +1,5 @@
 ## BeachBumm 
-![Image](BeachBumm.github.io/BeachBummScreenShot1.png=100x100)
+![](BeachBumm.github.io/BeachBummScreenShot1.png =100x100)
 
 ### Markdown
 
